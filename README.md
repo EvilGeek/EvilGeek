@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐦𝐥𝐨 , <𝚌𝚘𝚍𝚎𝚛𝚜/><b>!</b> <img src="https://raw.githubusercontent.com/evilgeek/evilgeek/master/gifs/Hemlo.gif" width="30px"></h2> 
 
 [![Telegram Badge](https://img.shields.io/badge/-@celestialxd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/celestialxd)](https://t.me/celestialxd) 
-[![Instagram Badge]https://img.shields.io/badge/-im.vaibhav.ig-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/im.vaibhav.ig/)](https://www.instagram.com/im.vaibhav.ig) 
+[![Instagram Badge](https://img.shields.io/badge/-im.vaibhav.ig-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/im.vaibhav.ig/)](https://www.instagram.com/im.vaibhav.ig) 
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavchandra2007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavchandra2007@gmail.com)](mailto:vaibhavchandra2007@gmail.com) 
 
 
