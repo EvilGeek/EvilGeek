@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavchandra2007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhavchandra2007@gmail.com)](mailto:vaibhavchandra2007@gmail.com) 
 
 
-Hello everyone! My name Vaibhav and I am a 15 year old technology lover. I have been into technology for as long as I can remember, and have been coding for about 3 years. Some of my favorite technologies to work with include Java, JavaScript, and Python. 
+Hello everyone! My name Vaibhav. I have been into technology for as long as I can remember, and have been coding for about 3 years. Some of my favorite technologies to work with include Java, JavaScript, and Python. 
 
 I have been involved in a few open source projects, and have even created a few of my own. I am always looking for new ways to learn and grow as a developer, and am excited to see what the future holds.
 
