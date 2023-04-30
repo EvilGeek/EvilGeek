@@ -16,4 +16,4 @@ If you want to know more about me or my work, be sure to check out my GitHub pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=evilgeek&hide=["issues"]&show_icons=true)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=evilgeek.evilgeek)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=Evilgeek&label=EvilGeek&countColor=%23f47373&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=Evilgeek)
