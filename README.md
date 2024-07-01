@@ -1,8 +1,8 @@
 <h2> 𝐇𝐞𝐦𝐥𝐨 , <𝚌𝚘𝚍𝚎𝚛𝚜/><b>!</b> <img src="https://raw.githubusercontent.com/evilgeek/evilgeek/master/gifs/Hemlo.gif" width="30px"></h2> 
 
-[![Telegram Badge](https://img.shields.io/badge/-@celestialxd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/BeingDissembler)](https://t.me/BeingDissembler) 
-[![Instagram Badge](https://img.shields.io/badge/-im.vaibhav.ig-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diversevariant/)](https://www.instagram.com/diversevariant) 
-[![Gmail Badge](https://img.shields.io/badge/-vaibhavchandra2007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diversevariant@proton.me)](mailto:diversevariant@proton.me) 
+[![Telegram Badge](https://img.shields.io/badge/-@BeingDissembler-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/BeingDissembler)](https://t.me/BeingDissembler) 
+[![Instagram Badge](https://img.shields.io/badge/-DiverseVariant-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diversevariant/)](https://www.instagram.com/diversevariant) 
+[![Gmail Badge](https://img.shields.io/badge/-diversevariant@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diversevariant@proton.me)](mailto:diversevariant@proton.me) 
 
 
 Hello everyone! My name Vaibhav. I have been into technology for as long as I can remember, and have been coding for about 3 years. Some of my favorite technologies to work with include Java, JavaScript, and Python. 
