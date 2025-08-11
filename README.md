@@ -76,15 +76,8 @@ Outside of coding, I love exploring **AI projects, automation ideas, and unique 
 - 🌱 Currently learning: **React + AI integrations**
 - 👯 Looking to collaborate on: **Automation & AI projects**
 - 💬 Ask me about: **APIs, Python automation, deployment**
-- 📫 Reach me: **vaibhavchandra@gmail.com**
 
 ---
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evilgeek&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
 
 ## 🤝 Connect with Me
 <p>
