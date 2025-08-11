@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&duration=1400&pause=1000&width=435&lines=Hey%2B%F0%9F%91%8B;Vaibhav+Here;Backend+Developer+;API+Builder;Student+%26;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&duration=1400&pause=1000&width=435&lines=Hey+👋;Vaibhav+Here;Backend+Developer+;API+Builder;Student+%26;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,6 +69,8 @@ Outside of coding, I love exploring **AI projects, automation ideas, and unique 
 | [Laravel ENV Scan Bot](https://github.com/EvilGeek/LaravelScanBot) | A Telegram bot designed to generate random IPs/Domains and conduct scans for sensitive or "juicy" credentials. | Pyrogram, Requests |
 | [TinyShare](https://github.com/EvilGeek/TinyShare) | A lightweight file sharing web-app, using telegram as storage | Flask, MongoDB |
 
+</div>
+
 ---
 
 ## 📅 Current Activities
@@ -79,6 +81,8 @@ Outside of coding, I love exploring **AI projects, automation ideas, and unique 
 
 ---
 
+<div align="center">
+  
 ## 🤝 Connect with Me
 <a href="mailto:vaibhavchandra2007@gmail.com">📧 Email</a> • 
 <a href="https://linkedin.com/in/vaibhav-chandra-dev">💼 LinkedIn</a> • 
