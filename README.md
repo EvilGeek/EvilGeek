@@ -1,7 +1,7 @@
 
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=36BCF7&center=true&vCenter=true&lines=Hey+👋,+I'm+Vaibhav+Chandra;Backend+Developer+%7C+API+Builder;Python+Automation+Specialist;Student+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1400&pause=1000&width=435&lines=Hey%2B%F0%9F%91%8B;Vaibhav+Here;Backend+Developer+;API+Builder;Student+%26;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
