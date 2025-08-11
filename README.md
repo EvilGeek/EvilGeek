@@ -49,11 +49,11 @@ Outside of coding, I love exploring **AI projects, automation ideas, and unique 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchandra&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavchandra&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=evilgeek&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=evilgeek&theme=tokyonight" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchandra&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgeek&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
